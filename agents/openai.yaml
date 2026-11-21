@@ -1,0 +1,10 @@
+interface:
+  display_name: "FitPaisa Forge"
+  short_description: "Project context, milestones and verified component reuse"
+  icon_small: "./assets/forge-icon.png"
+  icon_large: "./assets/forge-icon.png"
+  brand_color: "#173B72"
+  default_prompt: "Use $fitpaisa-forge to set up forge/ for this project, preserve any existing documentation, and plan the first requirement."
+
+policy:
+  allow_implicit_invocation: true
